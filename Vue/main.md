@@ -48,6 +48,7 @@
 1. 元件間有上下層關係，下層元件應用上層元件的名稱當開頭
     - 主元件 `List.vue`
     - 子元件 `ListItem.vue`
+1. 單獨頁面元件使用 `Page` 開頭，例如 `PageLogin.vue`
 1. 使用較常見的單字當開頭，形容詞或動詞結尾。套用官方的範例如下
     - `ClearSearchButton.vue` -> `SearchButtonClear.vue`
     - `RunSearchButton.vue` -> `SearchButtonRun.vue`
