@@ -6,6 +6,11 @@
 1. 一般註解使用 `//`
 1. 如有需實裝但尚未實裝的功能，使用 `//TODO: XXXX` 說明
 
+## Variable
+
+1. 命名使用 camelCase
+1. const 命名使用 SNAKE_CASE
+
 ## Function
 
 1. 命名使用 camelCase
