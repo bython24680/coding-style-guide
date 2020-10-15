@@ -1,3 +1,5 @@
+* Javascript
+    * [綜合](Javascript/common.md)
 * PHP
     * [綜合](PHP/common.md)
 * Vue
