@@ -6,7 +6,7 @@
 
 ## Class
 
-1. 命名使用 CamelCase
+1. 命名使用 PascalCase
 1. 務必加上 namespace
 1. 加上 phpdoc
 1. 名稱後需換行才是大括號
