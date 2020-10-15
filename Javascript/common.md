@@ -20,3 +20,4 @@
 
 1. 命名使用 PascalCase
 1. 名稱格式 `class Name {`，後面接換行
+1. method 後請加上一行空行再接下一個 method
