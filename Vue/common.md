@@ -18,7 +18,7 @@
 
 1. 定義時命名使用 camelCase
 1. 在 templates and JSX 內使用時用 kebab-case
-    - `UserName` -> `user-name`
+    - `userName` -> `user-name`
 
 ## Component
 
